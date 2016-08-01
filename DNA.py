@@ -1,5 +1,4 @@
 from random import randint, random
-import math
 
 def randomChar():
 	charInt = randint(32, 122)
